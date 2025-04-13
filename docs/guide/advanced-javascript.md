@@ -197,6 +197,6 @@ self.onmessage = function(e) {
 
 After mastering these advanced concepts, you might want to explore:
 
-- [JavaScript Testing](/guide/javascript-testing) (coming soon)
-- [JavaScript and TypeScript](/guide/javascript-typescript) (coming soon)
-- [JavaScript Performance Optimization](/guide/javascript-performance) (coming soon)
+- JavaScript Testing (coming soon)
+- JavaScript and TypeScript (coming soon)
+- JavaScript Performance Optimization (coming soon)

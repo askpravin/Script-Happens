@@ -161,5 +161,5 @@ console.log(sum(1, 2, 3, 4)); // 10
 After mastering these intermediate concepts, you might want to explore:
 
 - [Advanced JavaScript](/guide/advanced-javascript) (coming soon)
-- [JavaScript Design Patterns](/guide/javascript-patterns) (coming soon)
-- [JavaScript Testing](/guide/javascript-testing) (coming soon)
+- JavaScript Design Patterns (coming soon)
+- JavaScript Testing (coming soon)
