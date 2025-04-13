@@ -43,7 +43,8 @@ export default defineConfig({
           text: 'Advanced Topics',
           items: [
             { text: 'Intermediate JavaScript', link: '/guide/intermediate-javascript' },
-            { text: 'Advanced JavaScript', link: '/guide/advanced-javascript' }
+            { text: 'Advanced JavaScript', link: '/guide/advanced-javascript' },
+            { text: 'React Hooks: useEffect', link: '/guide/react-hooks-useeffect' }
           ]
         }
       ]
